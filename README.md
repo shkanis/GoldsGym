@@ -1,5 +1,5 @@
 # GoldsGym : React Fitness Application
 
-![React Fitness Application](https://ibb.co/BwBm1jJ)
+![React Fitness Application](https://ibb.co/album/6J04DN)
 
 
